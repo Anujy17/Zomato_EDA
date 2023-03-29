@@ -1,2 +1,2 @@
 # EDA
-Here i had uploaded all my files of eda
+This repository contains the EDA on Zomato dataset.
